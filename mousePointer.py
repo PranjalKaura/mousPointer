@@ -150,3 +150,6 @@ while True:
 
 cv2.destroyAllWindows()
 cap.release()
+
+
+#ref https://dev.to/amarlearning/finger-detection-and-tracking-using-opencv-and-python-586m
